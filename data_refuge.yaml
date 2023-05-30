@@ -1,0 +1,6 @@
+
+train: C:/Users/debora.assis/Documents/GitHub/YoloV8_Glaucoma/REFUGE/train/images
+val: C:/Users/debora.assis/Documents/GitHub/YoloV8_Glaucoma/REFUGE/test/images
+
+names: ['disc', 'cup']
+    
