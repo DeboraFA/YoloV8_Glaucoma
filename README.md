@@ -8,18 +8,22 @@ located, and a folder called labels with the coordinates obtained in Prepare_lab
 
 ---- Train
 
--- Imagens
+-- Images
+
   - Img1.jpg
   - Img2.jpg
   - ...
+    
 -- Labels
+
   - img1.txt
   - img2.txt
   - ...
 
 ---- Valid
 
--- Train
+-- Images
+
 -- Label
 
 ---- Test
