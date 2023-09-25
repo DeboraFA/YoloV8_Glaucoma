@@ -5,9 +5,9 @@ Within each one, create a folder called images where the original images will be
 located, and a folder called labels with the coordinates obtained in Prepare_labels.
 
 ------ Folder dataset
---
+
 ---- Train
---
+
 -- Imagens
   - Img1.jpg
   - Img2.jpg
@@ -18,12 +18,12 @@ located, and a folder called labels with the coordinates obtained in Prepare_lab
   - ...
 
 ---- Valid
---
+
 -- Train
 -- Label
 
 ---- Test
---
+
 
 # Prepare dataset train
 -- Create the coordinates to localize and segment optic disc.
