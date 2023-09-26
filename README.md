@@ -4,7 +4,7 @@ Create a folder with the dataset separated into training, validation and testing
 Within each one, create a folder called images where the original images will be 
 located, and a folder called labels with the coordinates obtained in Prepare_labels.
 
------- Folder dataset
+------ Folder_dataset
 
 ---- Train
 
@@ -34,8 +34,8 @@ located, and a folder called labels with the coordinates obtained in Prepare_lab
 
 # Create file **data.yaml** in folder train data
 ```ruby
-train: C:/Users/debora.assis/Documents/REFUGE/train/images
-val: C:/Users/debora.assis/Documents/REFUGE/valid/images
+train: C:/Users/debora.assis/Documents/Folder_dataset/Train/images
+val: C:/Users/debora.assis/Documents/Folder_dataset/Valid/images
 names: ['disc']  
 ```
 # Train custom dataset
