@@ -1,7 +1,6 @@
 
-train: C:/Users/debora.assis/Documents/REFUGE/train/images
-val: C:/Users/debora.assis/Documents/REFUGE/valid/images
-test: C:/Users/debora.assis/Documents/REFUGE/test/images
+train: /content/drive/MyDrive/YOLO_v8/dados/train/images
+val: /content/drive/MyDrive/YOLO_v8//dados/test/images
 
-names: ['disco']
+names: ['disc']
     
