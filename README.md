@@ -49,8 +49,8 @@ Run the **YOLOv8_Predict.ipynb** code  in folder **Test_predict** to obtain the 
 
 | Result YOLO v8 disc optic localize image    |
 |---------------------------------------------|
-| ![Localize disc optic](./YoloV8_Glaucoma/Train_data/runs/segment/train/val_batch2_pred.jpg) Predict localized disc optic using YOLO v8 in image|
+| ![Localize disc optic](.Train_data/runs/segment/train/val_batch2_pred.jpg) Predict localized disc optic using YOLO v8 in image|
 
 | Result YOLO v8 disc optic localize video    |
 |---------------------------------------------|
-| ![Localize disc optic](./YoloV8_Glaucoma/Test_predict/image_11.jpg) Predict localized disc optic using YOLO v8 in video|
+| ![Localize disc optic](.Test_predict/image_11.jpg) Predict localized disc optic using YOLO v8 in video|
