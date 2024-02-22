@@ -5,13 +5,6 @@ Within each one, create a folder called images where the original images will be
 located, and a folder called labels with the coordinates obtained in Prepare_labels.
 
 
-meu-repositorio/
-│
-├── imagens/
-│   ├── imagem1.jpg
-│   ├── imagem2.jpg
-│   └── imagem3.jpg
-
 ------ Folder_dataset
 
 ---- Train
@@ -51,3 +44,13 @@ Run the **YOLOv8_Train_REFUGE.ipynb** code in folder **Train_data** to train the
 
 # Test model
 Run the **YOLOv8_Predict.ipynb** code  in folder **Test_predict** to obtain the results of segmentation and localization of the optic disc.
+
+# Results 
+
+| Result YOLO v8 disc optic localize image    |
+|---------------------------------------------|
+| ![Localize disc optic](./YoloV8_Glaucoma/Train_data/runs/segment/train/val_batch2_pred.jpg) Predict localized disc optic using YOLO v8 in image|
+
+| Result YOLO v8 disc optic localize video    |
+|---------------------------------------------|
+| ![Localize disc optic](./YoloV8_Glaucoma/Test_predict/image_11.jpg) Predict localized disc optic using YOLO v8 in video|
