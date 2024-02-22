@@ -53,4 +53,4 @@ Run the **YOLOv8_Predict.ipynb** code  in folder **Test_predict** to obtain the 
 
 | Result YOLO v8 disc optic localize video    |
 |---------------------------------------------|
-| ![Localize disc optic](./Test_predict/image_11.jpg) Predict localized disc optic using YOLO v8 in video|
+| ![image_11](./Test_predict/image_11.jpg) Predict localized disc optic using YOLO v8 in video|
