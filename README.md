@@ -51,6 +51,3 @@ Run the **YOLOv8_Predict.ipynb** code  in folder **Test_predict** to obtain the 
 |---------------------------------------------|
 | ![val_batch2_pred](./Train_data/runs/segment/train/val_batch2_pred.jpg) Predict localized disc optic using YOLO v8 in image|
 
-| Result YOLO v8 disc optic localize video    |
-|---------------------------------------------|
-| ![image_11](./Test_predict/image_11.jpg) Predict localized disc optic using YOLO v8 in video|
