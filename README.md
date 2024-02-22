@@ -4,6 +4,14 @@ Create a folder with the dataset separated into training, validation and testing
 Within each one, create a folder called images where the original images will be 
 located, and a folder called labels with the coordinates obtained in Prepare_labels.
 
+
+meu-repositorio/
+│
+├── imagens/
+│   ├── imagem1.jpg
+│   ├── imagem2.jpg
+│   └── imagem3.jpg
+
 ------ Folder_dataset
 
 ---- Train
